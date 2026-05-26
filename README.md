@@ -1,2 +1,2 @@
-# data_Warehouse-Project
+# SQL-Data_Warehouse-Project
 Building a modern data warehouse with SQL server, including ETL processes, data modeling, and analytics.
